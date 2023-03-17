@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantiagoWL
-- 👀 I’m interested in Front End with Javascript.
+- 👀 I’m interested in Front End Career Path.
 - 🌱 I’m currently learning HTML, JS, CSS, React.
 - 💞️ I’m looking to collaborate on Junior project so I can get xp.
 - 📫 How to reach me santuagowl@gmail.com
